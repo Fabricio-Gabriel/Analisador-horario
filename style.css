@@ -1,0 +1,62 @@
+body {
+    background-color: #0033aa;
+    color: #ffff;
+}
+
+header {
+    font: normal 40pt Arial;
+    text-align: center;
+}
+
+section {
+    background-color: #ffff;
+    color: black;
+    width: 850px;
+    height: 550px;
+    padding: 15px;
+    max-width: auto;
+    max-height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 30px;
+    margin-top: -45px;
+    box-shadow: 10px 10px 10px rgb(26, 25, 25);
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-style: italic;
+    color: rgb(233, 132, 38);
+}
+
+div#container {
+    text-align: center;
+    font: normal 15pt Arial;
+}
+
+div#foto {
+    text-align: left;
+    font: normal 15pt arial;
+    margin-top: 55px;
+    max-width: auto;
+    max-height: auto;
+    width: 250px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+div#foto img {
+    border-radius: 1000px;
+    width:auto;
+    box-shadow: 10px 10px 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+div#boa {
+    margin-top: 60px;
+    font: normal 20pt Arial;
+    text-align: center;
+}
+
